@@ -1,6 +1,6 @@
 # Name Tag Generator
 
-This project involved building an interactive name tag generator that allows for creating and deleting bulk name tags for a group of people. 
+This project involved building an interactive name tag generator in React.js that allows for creating and deleting bulk name tags for a group of people. 
 
 ## Objective
 * Build a data model.
